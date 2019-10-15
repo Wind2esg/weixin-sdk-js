@@ -1,0 +1,30 @@
+{
+  "author": "wind2esg",
+  "email": "wind2esg@gmail.com",
+  "license": "MIT",
+  "name": "weixin-sdk-js",
+  "version": "1.0.0",
+  "description": "微信官方 wechat official Js SDK for commonjs and ts",
+  "main": "dist/src/index.js",
+  "type": "dist/src/index.d.ts",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wind2esg/weixin-sdk-js"
+  },
+  "keywords": [
+    "wechat",
+    "weixin",
+    "sdk",
+    "share",
+    "friends",
+    "timeline"
+  ],
+  "files": [
+    "dist",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ]
+}
