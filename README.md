@@ -29,7 +29,7 @@ import wx from 'weixin-sdk-js';
 > In case of something wrong, try `/// <reference path="<path>" />` with the import statement  
 > `<path>` is the relative path to the containing file, if root files not set.  
 > **For more about [`path`](http://www.typescriptlang.org/docs/handbook/triple-slash-directives.html#preprocessing-input-files)**  
-> Or just renameand copy node_module/weixin-sdk-js/dist/index.d.ts anywhere you want. 
+> Or use weixin-sdk.d.ts I prepare for you 
 
 ## api
 [微信官方 API doc](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/JS-SDK)  
