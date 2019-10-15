@@ -8,7 +8,7 @@
 Wechat official Js SDK for commonjs and ts
 
 ## breif
-将微信官方 Js SDK 封装，便于 commonjs 与 ts 环境直接使用
+将微信官方 Js SDK 封装，便于 commonjs 与 ts 环境直接使用  
 Encapsulate wechat official Js SDK for easy use of commonjs and ts 
 
 ## original js
