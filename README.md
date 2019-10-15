@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/npm/v/weixin-sdk-js)](https://www.npmjs.com/package/wgdown)
 [![Build Status](https://img.shields.io/npm/dm/weixin-sdk-js)](https://www.npmjs.com/package/wgdown)
 
-微信官方 Js SDK for commonjs and ts
+微信官方 Js SDK for commonjs and ts  
 Wechat official Js SDK for commonjs and ts
 
 ## breif
