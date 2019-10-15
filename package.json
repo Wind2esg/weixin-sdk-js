@@ -3,7 +3,7 @@
   "email": "wind2esg@gmail.com",
   "license": "MIT",
   "name": "weixin-sdk-js",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "微信官方 wechat official Js SDK for commonjs and ts",
   "main": "dist/index.js",
   "scripts": {},
@@ -17,7 +17,13 @@
     "sdk",
     "share",
     "friends",
-    "timeline"
+    "timeline",
+    "微信",
+    "微信官方",
+    "官方sdk",
+    "分享",
+    "朋友",
+    "朋友圈"
   ],
   "files": [
     "dist",
