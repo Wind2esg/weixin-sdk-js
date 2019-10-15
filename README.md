@@ -30,5 +30,5 @@ for ts
 
 ## link
 Looking for next stpes?  
-[分享给朋友，分享至朋友圈](https://github.com/wind2esg/wechat-sharelink)  
-[Share to friend and share to timeline](https://github.com/wind2esg/wechat-sharelink)
+[分享给朋友，分享至朋友圈](https://github.com/wind2esg/weixin-sharelink)  
+[Share to friend and share to timeline](https://github.com/wind2esg/weixin-sharelink)
