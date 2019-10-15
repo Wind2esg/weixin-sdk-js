@@ -1,3 +1,12 @@
+/**
+ * Wechat js sdk js modified for commonjs and ts use
+ * 
+ * @author wind2esg
+ * @date 20191015
+ * 
+ * Wechat official original js file: https://res.wx.qq.com/open/js/jweixin-1.4.0.js
+ */
+
 module.exports = function (e, n) {
   return n(e)
 }(window, function (e, n) {
