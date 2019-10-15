@@ -1,4 +1,4 @@
-declare module "wechat-js-sdk"{
+declare module "weixin-js-sdk"{
     let wx: any;
     export default wx;
 }
