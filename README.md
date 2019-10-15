@@ -22,7 +22,10 @@ for commonjs
 `const wx = require('weixin-sdk-js');`
 
 for ts  
-`import wx from 'weixin-sdk-js';`
+```
+/// <reference path="weixin-sdk-js.d.ts" />
+import wx from 'weixin-sdk-js';
+```
 
 ## api
 [微信官方 API doc](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/JS-SDK)  
